@@ -1,2 +1,2 @@
-# PygameSpill_Tobias
+# PygameSpill_JonasOgTobias
  Pygame airhockey spill
