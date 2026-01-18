@@ -1,7 +1,5 @@
 import pygame as pg
-
 from constants import *
-
 from klasse import *
 
 def tegn_bane(skjerm, poeng_v, poeng_h, font):
